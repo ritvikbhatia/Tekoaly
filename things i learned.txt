@@ -1,0 +1,29 @@
+marketing tricks in python and ml 
+(bucket analysis, sales forecasting,database marketing,merchandice planning ,call details analysis)
+pdf parsing 
+generator 
+adapter
+professional coding 
+error logging 
+modularity 
+readabulity 
+exploatory data analysis
+(describe , info , pandas profiling , graph plotting and understanding ) 
+machine learning (deseases )
+market data ( recommendation system , leed scoring etc ref to assignment submitted )
+chat bot 
+survey bot 
+visual graphical representation 
+avoid code while presenting (data encapsulation)
+punctuality 
+responsibuilty 
+regular expressions
+coding short cuts 
+presenting ideas 
+working in a corporate environment 
+working with a team 
+self learning 
+using APIs 
+debugging
+creating dashboards 
+plotly , dash
