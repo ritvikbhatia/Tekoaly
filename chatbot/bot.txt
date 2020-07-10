@@ -1,0 +1,25 @@
+'''CREATE TABLE bot (
+ person_id INTEGER PRIMARY KEY AUTOINCREMENT,
+ gender integer ,
+ age integer,
+ height integer ,
+ weight integer ,
+ famhist text ,
+ fbs text ,
+ fbp text ,
+ hygine text,
+ smoke text,
+ drink text,
+ fruit integer ,
+ bp text,
+ chol text,
+ fasbs text,
+ med text,
+ medi text 
+);'''
+
+INSERT INTO bot VALUES(1, 1,1,1,'a','a','a','a','a','a',1,'a','a','a','a','a','a')
+
+'''UPDATE bot
+SET gender = '''+val+''' 
+WHERE person_id = 1;'''
