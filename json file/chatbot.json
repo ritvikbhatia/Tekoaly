@@ -1,0 +1,104 @@
+{"intents": [
+        {"questionID": 0,
+         "Question": "Welcome to Tekoaly , Please answer some simple questions to make your experience here better.",
+         "Options": [],
+         "Type": "intro",
+          "Tag": "intro"
+        },
+        {"questionID": 1,
+         "Question": "To start with , Are you a male or female ?",
+         "Options": ["male","female"],
+         "Type": "selection",
+          "Tag": "gender"
+        },
+        {"questionID": 2,
+         "Question": "Can I know your age ?",
+         "Options": [1,90],
+         "Type": "range",
+          "Tag": "age"
+        },
+        {"questionID": 3,
+         "Question": "Can I know your height ?",
+         "Options": [200,700],
+         "Type": "range",
+          "Tag": "height"
+        },
+         {"questionID": 4,
+         "Question": "Can I know your weight ?",
+         "Options": [3,150],
+         "Type": "range",
+           "Tag": "weight"
+        },
+        {"questionID": 5,
+         "Question": "Do you have any family history ?",
+         "Options": ["Yes","No"],
+         "Type": "selection",
+          "Tag": "famhist"
+        },
+        {"questionID": 6,
+         "Question": "Family History of Blood Sugar?",
+         "Options": ["One" ,"Parent", "Both Parents", "Siblings", "None"],
+         "Type": "selection",
+          "Tag": "fbs"
+        },
+        {"questionID": 7,
+         "Question": "Family History of Blood Pressure?",
+         "Options": ["One" ,"Parent", "Both Parents", "Siblings", "None"],
+         "Type": "selection",
+          "Tag": "fbp"
+        },
+        {"questionID": 8,
+         "Question": "What is your personal Hygine?",
+         "Options": [1,5],
+         "Type": "range",
+          "Tag": "hygine"
+        },
+        {"questionID": 9,
+         "Question": "Do you smoke ?",
+         "Options": ["Yes","No","Quit"],
+         "Type": "selection",
+          "Tag": "smoke"
+        },
+        {"questionID": 10,
+         "Question": "Do you consume alcohol  ?",
+         "Options": ["Rarely", "Weekly", "Forthnighly", "Daily", "Never"],
+         "Type": "selection",
+          "Tag": "drink"
+        },
+        {"questionID": 11,
+         "Question": "How many fruits you consume weekly ?",
+         "Options": [0,30],
+         "Type": "range",
+          "Tag": "fruit"
+        },
+        {"questionID": 12,
+         "Question": "Blood Pressure?",
+         "Options": ["normal 120/80", "borderline 130/85", "High 140/90 ", "Do not Know"],
+         "Type": "selection",
+          "Tag": "bp"
+        },
+         {"questionID": 13,
+         "Question": "Cholestrol?",
+         "Options": ["normal 120/80", "borderline 130/85", "High 140/90 ", "Do not Know"],
+         "Type": "selection",
+           "Tag": "chol"
+        },
+        {"questionID": 14,
+         "Question": "Fasting Blood Sugar?",
+         "Options": ["normal 120/80", "borderline 130/85", "High 140/90 ", "Do not Know"],
+         "Type": "selection",
+          "Tag": "fasbs"
+        },
+        {"questionID": 15,
+         "Question": "Do You Take any Medicine?",
+         "Options": ["Yes","No"],
+         "Type": "selection",
+          "Tag": "med"
+        },
+        {"questionID": 16,
+         "Question": "Which Medicine You take",
+         "Options": [],
+         "Type": "text",
+          "Tag": "medi"
+        }
+    ]
